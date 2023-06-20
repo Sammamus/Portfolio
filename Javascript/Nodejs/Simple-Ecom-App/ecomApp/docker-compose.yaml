@@ -1,0 +1,22 @@
+version: '3'
+services:
+  ecomapp:
+    image: ecomapp:latest
+    container_name: app_main
+    restart: always
+    ports:
+      - 3000:3000
+    working_dir: /expressJS
+    environment:
+      MYSQL_HOST: mysql
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+      MYSQL_DB: ecom
+  mysql:
+    image: mysql:8.0.33
+    container_name: app_mysql
+    restart: always
+    ports:
+      - 33060:33060
+    environment:
+      MYSQL_ROOT_PASSWORD: password
