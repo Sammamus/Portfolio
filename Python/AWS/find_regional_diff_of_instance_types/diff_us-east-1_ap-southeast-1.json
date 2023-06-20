@@ -1,0 +1,1820 @@
+{
+    "a1.2xlarge": {
+        "Regions": "Both"
+    },
+    "a1.4xlarge": {
+        "Regions": "Both"
+    },
+    "a1.large": {
+        "Regions": "Both"
+    },
+    "a1.medium": {
+        "Regions": "Both"
+    },
+    "a1.metal": {
+        "Regions": "Both"
+    },
+    "a1.xlarge": {
+        "Regions": "Both"
+    },
+    "c1.medium": {
+        "Regions": "Both"
+    },
+    "c1.xlarge": {
+        "Regions": "Both"
+    },
+    "c3.2xlarge": {
+        "Regions": "Both"
+    },
+    "c3.4xlarge": {
+        "Regions": "Both"
+    },
+    "c3.8xlarge": {
+        "Regions": "Both"
+    },
+    "c3.large": {
+        "Regions": "Both"
+    },
+    "c3.xlarge": {
+        "Regions": "Both"
+    },
+    "c4.2xlarge": {
+        "Regions": "Both"
+    },
+    "c4.4xlarge": {
+        "Regions": "Both"
+    },
+    "c4.8xlarge": {
+        "Regions": "Both"
+    },
+    "c4.large": {
+        "Regions": "Both"
+    },
+    "c4.xlarge": {
+        "Regions": "Both"
+    },
+    "c5.12xlarge": {
+        "Regions": "Both"
+    },
+    "c5.18xlarge": {
+        "Regions": "Both"
+    },
+    "c5.24xlarge": {
+        "Regions": "Both"
+    },
+    "c5.2xlarge": {
+        "Regions": "Both"
+    },
+    "c5.4xlarge": {
+        "Regions": "Both"
+    },
+    "c5.9xlarge": {
+        "Regions": "Both"
+    },
+    "c5.large": {
+        "Regions": "Both"
+    },
+    "c5.metal": {
+        "Regions": "Both"
+    },
+    "c5.xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.12xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.16xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.24xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.2xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.4xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.8xlarge": {
+        "Regions": "Both"
+    },
+    "c5a.large": {
+        "Regions": "Both"
+    },
+    "c5a.xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.12xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.16xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.24xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.2xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.4xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.8xlarge": {
+        "Regions": "Both"
+    },
+    "c5ad.large": {
+        "Regions": "Both"
+    },
+    "c5ad.xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.12xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.18xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.24xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.2xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.4xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.9xlarge": {
+        "Regions": "Both"
+    },
+    "c5d.large": {
+        "Regions": "Both"
+    },
+    "c5d.metal": {
+        "Regions": "Both"
+    },
+    "c5d.xlarge": {
+        "Regions": "Both"
+    },
+    "c5n.18xlarge": {
+        "Regions": "Both"
+    },
+    "c5n.2xlarge": {
+        "Regions": "Both"
+    },
+    "c5n.4xlarge": {
+        "Regions": "Both"
+    },
+    "c5n.9xlarge": {
+        "Regions": "Both"
+    },
+    "c5n.large": {
+        "Regions": "Both"
+    },
+    "c5n.metal": {
+        "Regions": "Both"
+    },
+    "c5n.xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.12xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.16xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.24xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.2xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.32xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.48xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.4xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.8xlarge": {
+        "Regions": "Both"
+    },
+    "c6a.large": {
+        "Regions": "Both"
+    },
+    "c6a.metal": {
+        "Regions": "Both"
+    },
+    "c6a.xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.12xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.16xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.2xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.4xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.8xlarge": {
+        "Regions": "Both"
+    },
+    "c6g.large": {
+        "Regions": "Both"
+    },
+    "c6g.medium": {
+        "Regions": "Both"
+    },
+    "c6g.metal": {
+        "Regions": "Both"
+    },
+    "c6g.xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.12xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.16xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.2xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.4xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.8xlarge": {
+        "Regions": "Both"
+    },
+    "c6gd.large": {
+        "Regions": "Both"
+    },
+    "c6gd.medium": {
+        "Regions": "Both"
+    },
+    "c6gd.metal": {
+        "Regions": "Both"
+    },
+    "c6gd.xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.12xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.16xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.2xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.4xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.8xlarge": {
+        "Regions": "Both"
+    },
+    "c6gn.large": {
+        "Regions": "Both"
+    },
+    "c6gn.medium": {
+        "Regions": "Both"
+    },
+    "c6gn.xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.12xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.16xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.24xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.2xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.32xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.4xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.8xlarge": {
+        "Regions": "Both"
+    },
+    "c6i.large": {
+        "Regions": "Both"
+    },
+    "c6i.metal": {
+        "Regions": "Both"
+    },
+    "c6i.xlarge": {
+        "Regions": "Both"
+    },
+    "c6id.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6id.large": {
+        "Regions": "us-east-1"
+    },
+    "c6id.metal": {
+        "Regions": "us-east-1"
+    },
+    "c6id.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c6in.large": {
+        "Regions": "us-east-1"
+    },
+    "c6in.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "c7g.large": {
+        "Regions": "us-east-1"
+    },
+    "c7g.medium": {
+        "Regions": "us-east-1"
+    },
+    "c7g.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "cc2.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d2.2xlarge": {
+        "Regions": "Both"
+    },
+    "d2.4xlarge": {
+        "Regions": "Both"
+    },
+    "d2.8xlarge": {
+        "Regions": "Both"
+    },
+    "d2.xlarge": {
+        "Regions": "Both"
+    },
+    "d3.2xlarge": {
+        "Regions": "Both"
+    },
+    "d3.4xlarge": {
+        "Regions": "Both"
+    },
+    "d3.8xlarge": {
+        "Regions": "Both"
+    },
+    "d3.xlarge": {
+        "Regions": "Both"
+    },
+    "d3en.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d3en.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d3en.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d3en.6xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d3en.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "d3en.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "dl1.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "f1.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "f1.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "f1.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g2.2xlarge": {
+        "Regions": "Both"
+    },
+    "g2.8xlarge": {
+        "Regions": "Both"
+    },
+    "g3.16xlarge": {
+        "Regions": "Both"
+    },
+    "g3.4xlarge": {
+        "Regions": "Both"
+    },
+    "g3.8xlarge": {
+        "Regions": "Both"
+    },
+    "g3s.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4ad.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4ad.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4ad.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4ad.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4ad.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g4dn.12xlarge": {
+        "Regions": "Both"
+    },
+    "g4dn.16xlarge": {
+        "Regions": "Both"
+    },
+    "g4dn.2xlarge": {
+        "Regions": "Both"
+    },
+    "g4dn.4xlarge": {
+        "Regions": "Both"
+    },
+    "g4dn.8xlarge": {
+        "Regions": "Both"
+    },
+    "g4dn.metal": {
+        "Regions": "Both"
+    },
+    "g4dn.xlarge": {
+        "Regions": "Both"
+    },
+    "g5.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.48xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "g5g.16xlarge": {
+        "Regions": "Both"
+    },
+    "g5g.2xlarge": {
+        "Regions": "Both"
+    },
+    "g5g.4xlarge": {
+        "Regions": "Both"
+    },
+    "g5g.8xlarge": {
+        "Regions": "Both"
+    },
+    "g5g.metal": {
+        "Regions": "Both"
+    },
+    "g5g.xlarge": {
+        "Regions": "Both"
+    },
+    "h1.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "h1.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "h1.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "h1.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "i2.2xlarge": {
+        "Regions": "Both"
+    },
+    "i2.4xlarge": {
+        "Regions": "Both"
+    },
+    "i2.8xlarge": {
+        "Regions": "Both"
+    },
+    "i2.xlarge": {
+        "Regions": "Both"
+    },
+    "i3.16xlarge": {
+        "Regions": "Both"
+    },
+    "i3.2xlarge": {
+        "Regions": "Both"
+    },
+    "i3.4xlarge": {
+        "Regions": "Both"
+    },
+    "i3.8xlarge": {
+        "Regions": "Both"
+    },
+    "i3.large": {
+        "Regions": "Both"
+    },
+    "i3.metal": {
+        "Regions": "Both"
+    },
+    "i3.xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.12xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.24xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.2xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.3xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.6xlarge": {
+        "Regions": "Both"
+    },
+    "i3en.large": {
+        "Regions": "Both"
+    },
+    "i3en.metal": {
+        "Regions": "Both"
+    },
+    "i3en.xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.16xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.2xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.32xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.4xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.8xlarge": {
+        "Regions": "Both"
+    },
+    "i4i.large": {
+        "Regions": "Both"
+    },
+    "i4i.metal": {
+        "Regions": "Both"
+    },
+    "i4i.xlarge": {
+        "Regions": "Both"
+    },
+    "im4gn.16xlarge": {
+        "Regions": "Both"
+    },
+    "im4gn.2xlarge": {
+        "Regions": "Both"
+    },
+    "im4gn.4xlarge": {
+        "Regions": "Both"
+    },
+    "im4gn.8xlarge": {
+        "Regions": "Both"
+    },
+    "im4gn.large": {
+        "Regions": "Both"
+    },
+    "im4gn.xlarge": {
+        "Regions": "Both"
+    },
+    "inf1.24xlarge": {
+        "Regions": "Both"
+    },
+    "inf1.2xlarge": {
+        "Regions": "Both"
+    },
+    "inf1.6xlarge": {
+        "Regions": "Both"
+    },
+    "inf1.xlarge": {
+        "Regions": "Both"
+    },
+    "is4gen.2xlarge": {
+        "Regions": "Both"
+    },
+    "is4gen.4xlarge": {
+        "Regions": "Both"
+    },
+    "is4gen.8xlarge": {
+        "Regions": "Both"
+    },
+    "is4gen.large": {
+        "Regions": "Both"
+    },
+    "is4gen.medium": {
+        "Regions": "Both"
+    },
+    "is4gen.xlarge": {
+        "Regions": "Both"
+    },
+    "m1.large": {
+        "Regions": "Both"
+    },
+    "m1.medium": {
+        "Regions": "Both"
+    },
+    "m1.small": {
+        "Regions": "Both"
+    },
+    "m1.xlarge": {
+        "Regions": "Both"
+    },
+    "m2.2xlarge": {
+        "Regions": "Both"
+    },
+    "m2.4xlarge": {
+        "Regions": "Both"
+    },
+    "m2.xlarge": {
+        "Regions": "Both"
+    },
+    "m3.2xlarge": {
+        "Regions": "Both"
+    },
+    "m3.large": {
+        "Regions": "Both"
+    },
+    "m3.medium": {
+        "Regions": "Both"
+    },
+    "m3.xlarge": {
+        "Regions": "Both"
+    },
+    "m4.10xlarge": {
+        "Regions": "Both"
+    },
+    "m4.16xlarge": {
+        "Regions": "Both"
+    },
+    "m4.2xlarge": {
+        "Regions": "Both"
+    },
+    "m4.4xlarge": {
+        "Regions": "Both"
+    },
+    "m4.large": {
+        "Regions": "Both"
+    },
+    "m4.xlarge": {
+        "Regions": "Both"
+    },
+    "m5.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5.large": {
+        "Regions": "Both"
+    },
+    "m5.metal": {
+        "Regions": "Both"
+    },
+    "m5.xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5a.large": {
+        "Regions": "Both"
+    },
+    "m5a.xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5ad.large": {
+        "Regions": "Both"
+    },
+    "m5ad.xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5d.large": {
+        "Regions": "Both"
+    },
+    "m5d.metal": {
+        "Regions": "Both"
+    },
+    "m5d.xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5dn.large": {
+        "Regions": "Both"
+    },
+    "m5dn.metal": {
+        "Regions": "Both"
+    },
+    "m5dn.xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.16xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.24xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.4xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.8xlarge": {
+        "Regions": "Both"
+    },
+    "m5n.large": {
+        "Regions": "Both"
+    },
+    "m5n.metal": {
+        "Regions": "Both"
+    },
+    "m5n.xlarge": {
+        "Regions": "Both"
+    },
+    "m5zn.12xlarge": {
+        "Regions": "Both"
+    },
+    "m5zn.2xlarge": {
+        "Regions": "Both"
+    },
+    "m5zn.3xlarge": {
+        "Regions": "Both"
+    },
+    "m5zn.6xlarge": {
+        "Regions": "Both"
+    },
+    "m5zn.large": {
+        "Regions": "Both"
+    },
+    "m5zn.metal": {
+        "Regions": "Both"
+    },
+    "m5zn.xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.12xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.16xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.24xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.2xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.32xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.48xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.4xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.8xlarge": {
+        "Regions": "Both"
+    },
+    "m6a.large": {
+        "Regions": "Both"
+    },
+    "m6a.metal": {
+        "Regions": "Both"
+    },
+    "m6a.xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.12xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.16xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.2xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.4xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.8xlarge": {
+        "Regions": "Both"
+    },
+    "m6g.large": {
+        "Regions": "Both"
+    },
+    "m6g.medium": {
+        "Regions": "Both"
+    },
+    "m6g.metal": {
+        "Regions": "Both"
+    },
+    "m6g.xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.12xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.16xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.2xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.4xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.8xlarge": {
+        "Regions": "Both"
+    },
+    "m6gd.large": {
+        "Regions": "Both"
+    },
+    "m6gd.medium": {
+        "Regions": "Both"
+    },
+    "m6gd.metal": {
+        "Regions": "Both"
+    },
+    "m6gd.xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.12xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.16xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.24xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.2xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.32xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.4xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.8xlarge": {
+        "Regions": "Both"
+    },
+    "m6i.large": {
+        "Regions": "Both"
+    },
+    "m6i.metal": {
+        "Regions": "Both"
+    },
+    "m6i.xlarge": {
+        "Regions": "Both"
+    },
+    "m6id.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6id.large": {
+        "Regions": "us-east-1"
+    },
+    "m6id.metal": {
+        "Regions": "us-east-1"
+    },
+    "m6id.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.large": {
+        "Regions": "us-east-1"
+    },
+    "m6idn.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "m6in.large": {
+        "Regions": "us-east-1"
+    },
+    "m6in.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "mac1.metal": {
+        "Regions": "Both"
+    },
+    "mac2.metal": {
+        "Regions": "Both"
+    },
+    "p2.16xlarge": {
+        "Regions": "Both"
+    },
+    "p2.8xlarge": {
+        "Regions": "Both"
+    },
+    "p2.xlarge": {
+        "Regions": "Both"
+    },
+    "p3.16xlarge": {
+        "Regions": "Both"
+    },
+    "p3.2xlarge": {
+        "Regions": "Both"
+    },
+    "p3.8xlarge": {
+        "Regions": "Both"
+    },
+    "p3dn.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "p4d.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r3.2xlarge": {
+        "Regions": "Both"
+    },
+    "r3.4xlarge": {
+        "Regions": "Both"
+    },
+    "r3.8xlarge": {
+        "Regions": "Both"
+    },
+    "r3.large": {
+        "Regions": "Both"
+    },
+    "r3.xlarge": {
+        "Regions": "Both"
+    },
+    "r4.16xlarge": {
+        "Regions": "Both"
+    },
+    "r4.2xlarge": {
+        "Regions": "Both"
+    },
+    "r4.4xlarge": {
+        "Regions": "Both"
+    },
+    "r4.8xlarge": {
+        "Regions": "Both"
+    },
+    "r4.large": {
+        "Regions": "Both"
+    },
+    "r4.xlarge": {
+        "Regions": "Both"
+    },
+    "r5.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5.large": {
+        "Regions": "Both"
+    },
+    "r5.metal": {
+        "Regions": "Both"
+    },
+    "r5.xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5a.large": {
+        "Regions": "Both"
+    },
+    "r5a.xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5ad.large": {
+        "Regions": "Both"
+    },
+    "r5ad.xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5b.large": {
+        "Regions": "Both"
+    },
+    "r5b.metal": {
+        "Regions": "Both"
+    },
+    "r5b.xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5d.large": {
+        "Regions": "Both"
+    },
+    "r5d.metal": {
+        "Regions": "Both"
+    },
+    "r5d.xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5dn.large": {
+        "Regions": "Both"
+    },
+    "r5dn.metal": {
+        "Regions": "Both"
+    },
+    "r5dn.xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.12xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.16xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.24xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.2xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.4xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.8xlarge": {
+        "Regions": "Both"
+    },
+    "r5n.large": {
+        "Regions": "Both"
+    },
+    "r5n.metal": {
+        "Regions": "Both"
+    },
+    "r5n.xlarge": {
+        "Regions": "Both"
+    },
+    "r6a.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.48xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6a.large": {
+        "Regions": "us-east-1"
+    },
+    "r6a.metal": {
+        "Regions": "us-east-1"
+    },
+    "r6a.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6g.12xlarge": {
+        "Regions": "Both"
+    },
+    "r6g.16xlarge": {
+        "Regions": "Both"
+    },
+    "r6g.2xlarge": {
+        "Regions": "Both"
+    },
+    "r6g.4xlarge": {
+        "Regions": "Both"
+    },
+    "r6g.8xlarge": {
+        "Regions": "Both"
+    },
+    "r6g.large": {
+        "Regions": "Both"
+    },
+    "r6g.medium": {
+        "Regions": "Both"
+    },
+    "r6g.metal": {
+        "Regions": "Both"
+    },
+    "r6g.xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.12xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.16xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.2xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.4xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.8xlarge": {
+        "Regions": "Both"
+    },
+    "r6gd.large": {
+        "Regions": "Both"
+    },
+    "r6gd.medium": {
+        "Regions": "Both"
+    },
+    "r6gd.metal": {
+        "Regions": "Both"
+    },
+    "r6gd.xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.12xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.16xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.24xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.2xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.32xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.4xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.8xlarge": {
+        "Regions": "Both"
+    },
+    "r6i.large": {
+        "Regions": "Both"
+    },
+    "r6i.metal": {
+        "Regions": "Both"
+    },
+    "r6i.xlarge": {
+        "Regions": "Both"
+    },
+    "r6id.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6id.large": {
+        "Regions": "us-east-1"
+    },
+    "r6id.metal": {
+        "Regions": "us-east-1"
+    },
+    "r6id.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.large": {
+        "Regions": "us-east-1"
+    },
+    "r6idn.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "r6in.large": {
+        "Regions": "us-east-1"
+    },
+    "r6in.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "t1.micro": {
+        "Regions": "Both"
+    },
+    "t2.2xlarge": {
+        "Regions": "Both"
+    },
+    "t2.large": {
+        "Regions": "Both"
+    },
+    "t2.medium": {
+        "Regions": "Both"
+    },
+    "t2.micro": {
+        "Regions": "Both"
+    },
+    "t2.nano": {
+        "Regions": "Both"
+    },
+    "t2.small": {
+        "Regions": "Both"
+    },
+    "t2.xlarge": {
+        "Regions": "Both"
+    },
+    "t3.2xlarge": {
+        "Regions": "Both"
+    },
+    "t3.large": {
+        "Regions": "Both"
+    },
+    "t3.medium": {
+        "Regions": "Both"
+    },
+    "t3.micro": {
+        "Regions": "Both"
+    },
+    "t3.nano": {
+        "Regions": "Both"
+    },
+    "t3.small": {
+        "Regions": "Both"
+    },
+    "t3.xlarge": {
+        "Regions": "Both"
+    },
+    "t3a.2xlarge": {
+        "Regions": "Both"
+    },
+    "t3a.large": {
+        "Regions": "Both"
+    },
+    "t3a.medium": {
+        "Regions": "Both"
+    },
+    "t3a.micro": {
+        "Regions": "Both"
+    },
+    "t3a.nano": {
+        "Regions": "Both"
+    },
+    "t3a.small": {
+        "Regions": "Both"
+    },
+    "t3a.xlarge": {
+        "Regions": "Both"
+    },
+    "t4g.2xlarge": {
+        "Regions": "Both"
+    },
+    "t4g.large": {
+        "Regions": "Both"
+    },
+    "t4g.medium": {
+        "Regions": "Both"
+    },
+    "t4g.micro": {
+        "Regions": "Both"
+    },
+    "t4g.nano": {
+        "Regions": "Both"
+    },
+    "t4g.small": {
+        "Regions": "Both"
+    },
+    "t4g.xlarge": {
+        "Regions": "Both"
+    },
+    "trn1.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "trn1.32xlarge": {
+        "Regions": "us-east-1"
+    },
+    "u-12tb1.112xlarge": {
+        "Regions": "Both"
+    },
+    "u-18tb1.112xlarge": {
+        "Regions": "us-east-1"
+    },
+    "u-24tb1.112xlarge": {
+        "Regions": "us-east-1"
+    },
+    "u-3tb1.56xlarge": {
+        "Regions": "Both"
+    },
+    "u-6tb1.112xlarge": {
+        "Regions": "Both"
+    },
+    "u-6tb1.56xlarge": {
+        "Regions": "Both"
+    },
+    "u-9tb1.112xlarge": {
+        "Regions": "Both"
+    },
+    "vt1.24xlarge": {
+        "Regions": "us-east-1"
+    },
+    "vt1.3xlarge": {
+        "Regions": "us-east-1"
+    },
+    "vt1.6xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x1.16xlarge": {
+        "Regions": "Both"
+    },
+    "x1.32xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.16xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.2xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.32xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.4xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.8xlarge": {
+        "Regions": "Both"
+    },
+    "x1e.xlarge": {
+        "Regions": "Both"
+    },
+    "x2gd.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.16xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.large": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.medium": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.metal": {
+        "Regions": "us-east-1"
+    },
+    "x2gd.xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2idn.16xlarge": {
+        "Regions": "Both"
+    },
+    "x2idn.24xlarge": {
+        "Regions": "Both"
+    },
+    "x2idn.32xlarge": {
+        "Regions": "Both"
+    },
+    "x2idn.metal": {
+        "Regions": "Both"
+    },
+    "x2iedn.16xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.24xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.2xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.32xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.4xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.8xlarge": {
+        "Regions": "Both"
+    },
+    "x2iedn.metal": {
+        "Regions": "Both"
+    },
+    "x2iedn.xlarge": {
+        "Regions": "Both"
+    },
+    "x2iezn.12xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2iezn.2xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2iezn.4xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2iezn.6xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2iezn.8xlarge": {
+        "Regions": "us-east-1"
+    },
+    "x2iezn.metal": {
+        "Regions": "us-east-1"
+    },
+    "z1d.12xlarge": {
+        "Regions": "Both"
+    },
+    "z1d.2xlarge": {
+        "Regions": "Both"
+    },
+    "z1d.3xlarge": {
+        "Regions": "Both"
+    },
+    "z1d.6xlarge": {
+        "Regions": "Both"
+    },
+    "z1d.large": {
+        "Regions": "Both"
+    },
+    "z1d.metal": {
+        "Regions": "Both"
+    },
+    "z1d.xlarge": {
+        "Regions": "Both"
+    }
+}

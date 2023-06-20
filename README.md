@@ -1,2 +1,2 @@
 # Portfolio
-A showcase of my private work
+A showcase of my private work and tinkering.

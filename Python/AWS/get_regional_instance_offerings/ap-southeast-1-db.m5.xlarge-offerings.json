@@ -1,0 +1,35 @@
+{
+    "Region": "ap-southeast-1",
+    "Instance-Type": "db.m5.xlarge",
+    "Availability-Zones": [
+        "ap-southeast-1a",
+        "ap-southeast-1b",
+        "ap-southeast-1c"
+    ],
+    "Offerings": [
+        {
+            "instance_type": "db.m5.xlarge",
+            "location_type": "region",
+            "location": "ap-southeast-1",
+            "status": "NOT OFFERED"
+        },
+        {
+            "instance_type": "db.m5.xlarge",
+            "location_type": "availability-zone",
+            "location": "ap-southeast-1a",
+            "status": "NOT OFFERED"
+        },
+        {
+            "instance_type": "db.m5.xlarge",
+            "location_type": "availability-zone",
+            "location": "ap-southeast-1b",
+            "status": "NOT OFFERED"
+        },
+        {
+            "instance_type": "db.m5.xlarge",
+            "location_type": "availability-zone",
+            "location": "ap-southeast-1c",
+            "status": "NOT OFFERED"
+        }
+    ]
+}

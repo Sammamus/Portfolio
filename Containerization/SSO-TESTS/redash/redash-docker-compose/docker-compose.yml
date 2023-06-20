@@ -1,0 +1,74 @@
+version: "3.3"
+
+services:
+  redash:
+    image: redash/redash:latest
+    depends_on:
+      - postgres
+      - redis
+    restart: always
+    command: server
+    ports:
+      - "5000:5000"
+    environment:
+      - REDASH_WEB_WORKERS=4
+      - REDASH_REDIS_URL=redis://redis:6379/0
+      - REDASH_DATABASE_URL=postgresql://redash:redash@postgres:5432/redash
+
+  scheduler:
+    image: redash/redash:latest
+    depends_on:
+      - postgres
+      - redis
+    restart: always
+    command: scheduler
+    environment:
+      - QUEUES=celery
+      - WORKERS_COUNT=1
+      - REDASH_REDIS_URL=redis://redis:6379/0
+      - REDASH_DATABASE_URL=postgresql://redash:redash@postgres/redash
+
+  scheduler_worker:
+    image: redash/redash:latest
+    depends_on:
+      - postgres
+      - redis
+    restart: always
+    command: worker
+    environment:
+      - QUEUES=scheduled_queries,schemas
+      - WORKERS_COUNT=1
+      - REDASH_REDIS_URL=redis://redis:6379/0
+      - REDASH_DATABASE_URL=postgresql://redash:redash@postgres/redash
+
+  adhoc_worker:
+    image: redash/redash:latest
+    depends_on:
+      - postgres
+      - redis
+    restart: always
+    command: worker
+    environment:
+      - QUEUES=queries
+      - WORKERS_COUNT=2
+      - REDASH_REDIS_URL=redis://redis:6379/0
+      - REDASH_DATABASE_URL=postgresql://redash:redash@postgres/redash
+
+  redis:
+    image: redis:latest
+    restart: always
+
+  postgres:
+    image: postgres:latest
+    environment:
+      - POSTGRES_USER=redash
+      - POSTGRES_PASSWORD=redash
+    restart: always
+
+  nginx:
+    image: redash/nginx:latest
+    ports:
+      - "80:80"
+    depends_on:
+      - redash
+    restart: always

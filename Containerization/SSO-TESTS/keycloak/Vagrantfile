@@ -1,0 +1,30 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  config.vm.box = "geerlingguy/ubuntu2004"
+  config.vm.network "private_network", ip: "192.168.33.32", guest: 8080, host: 8080
+  config.vm.provider "virtualbox" do |vb|
+    vb.name = "keycloak"
+    vb.cpus = 2
+    vb.memory = 2048
+  end
+
+  config.vm.synced_folder "keycloak-docker-compose/", "/home/vagrant/keycloak-docker-compose/"
+
+  config.vm.provision "shell", inline: <<-SHELL
+    apt update
+    apt install apt-transport-https -y
+    apt install ca-certificates -y
+    apt install curl -y
+    apt install software-properties-common -y
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+    add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+    apt update
+    apt-cache policy docker-ce
+    apt install docker-ce -y
+    apt install docker-compose -y
+    usermod -aG docker vagrant
+  SHELL
+end
